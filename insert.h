@@ -9,6 +9,16 @@ class InsertSort : public Sort {
 
         void execute() {
             // TODO
+            int next, sortedIndex;
+            for(int i = 1; i < size; i++){
+                next = elements[i];
+                sortedIndex = i-1;
+                while(sortedIndex >=0 && elements[sortedIndex]>next){
+                    elements[sortedIndex+1] = elements[sortedIndex];
+                    sortedIndex--;
+                }
+                elements[sortedIndex+1] = next;
+            }
         }
 
         inline string name() { return "InsertSort"; }
