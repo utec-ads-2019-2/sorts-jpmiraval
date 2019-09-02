@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="sorts_jpmiraval"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sorts_jpmiraval">
+				<Option output="C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug/sorts_jpmiraval.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/SiLvErS/Documents/sorts-jpmiraval/."/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug/Makefile&quot;  VERBOSE=1 sorts_jpmiraval"/>
+					<CompileFile command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sorts_jpmiraval/fast">
+				<Option output="C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug/sorts_jpmiraval.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/SiLvErS/Documents/sorts-jpmiraval/."/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug/Makefile&quot;  VERBOSE=1 sorts_jpmiraval/fast"/>
+					<CompileFile command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/SiLvErS/Documents/sorts-jpmiraval/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/SiLvErS/Documents/sorts-jpmiraval/LICENSE">
+			<Option target="sorts_jpmiraval"/>
+		</Unit>
+		<Unit filename="C:/Users/SiLvErS/Documents/sorts-jpmiraval/bubble.h">
+			<Option target="sorts_jpmiraval"/>
+		</Unit>
+		<Unit filename="C:/Users/SiLvErS/Documents/sorts-jpmiraval/counting.h">
+			<Option target="sorts_jpmiraval"/>
+		</Unit>
+		<Unit filename="C:/Users/SiLvErS/Documents/sorts-jpmiraval/insert.h">
+			<Option target="sorts_jpmiraval"/>
+		</Unit>
+		<Unit filename="C:/Users/SiLvErS/Documents/sorts-jpmiraval/main.cpp">
+			<Option target="sorts_jpmiraval"/>
+		</Unit>
+		<Unit filename="C:/Users/SiLvErS/Documents/sorts-jpmiraval/merge.h">
+			<Option target="sorts_jpmiraval"/>
+		</Unit>
+		<Unit filename="C:/Users/SiLvErS/Documents/sorts-jpmiraval/mocker.cpp">
+			<Option target="sorts_jpmiraval"/>
+		</Unit>
+		<Unit filename="C:/Users/SiLvErS/Documents/sorts-jpmiraval/mocker.h">
+			<Option target="sorts_jpmiraval"/>
+		</Unit>
+		<Unit filename="C:/Users/SiLvErS/Documents/sorts-jpmiraval/quick.h">
+			<Option target="sorts_jpmiraval"/>
+		</Unit>
+		<Unit filename="C:/Users/SiLvErS/Documents/sorts-jpmiraval/radix.h">
+			<Option target="sorts_jpmiraval"/>
+		</Unit>
+		<Unit filename="C:/Users/SiLvErS/Documents/sorts-jpmiraval/select.h">
+			<Option target="sorts_jpmiraval"/>
+		</Unit>
+		<Unit filename="C:/Users/SiLvErS/Documents/sorts-jpmiraval/shell.h">
+			<Option target="sorts_jpmiraval"/>
+		</Unit>
+		<Unit filename="C:/Users/SiLvErS/Documents/sorts-jpmiraval/sort.h">
+			<Option target="sorts_jpmiraval"/>
+		</Unit>
+		<Unit filename="C:/Users/SiLvErS/Documents/sorts-jpmiraval/tester.cpp">
+			<Option target="sorts_jpmiraval"/>
+		</Unit>
+		<Unit filename="C:/Users/SiLvErS/Documents/sorts-jpmiraval/tester.h">
+			<Option target="sorts_jpmiraval"/>
+		</Unit>
+		<Unit filename="C:/Users/SiLvErS/Documents/sorts-jpmiraval/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
